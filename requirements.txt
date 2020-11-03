@@ -11,7 +11,7 @@ djangorestframework==3.9.4
 djangorestframework-xml==1.4.0
 filelock==3.0.12
 idna==2.10
-isort==5.5.4
+isort==4.3.21
 lazy-object-proxy==1.4.3
 mccabe==0.6.1
 pylint==2.6.0
