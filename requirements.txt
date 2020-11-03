@@ -6,7 +6,7 @@ chardet==3.0.4
 colorama==0.4.3
 defusedxml==0.6.0
 distlib==0.3.1
-Django==3.1.2
+Django==1.11.29
 djangorestframework==3.12.1
 djangorestframework-xml==2.0.0
 filelock==3.0.12
